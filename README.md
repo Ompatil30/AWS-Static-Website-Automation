@@ -183,19 +183,19 @@ python deploy.py
 python upload.py
 ```
 
-## 6. Enable Static Website Hosting
+## 7. Enable Static Website Hosting
 
 ```bash
 python enable_hosting.py
 ```
 
-## 7. Configure Public Access
+## 8. Configure Public Access
 
 ```bash
 python public_access.py
 ```
 
-## 8. Open the Website
+## 9. Open the Website
 
 Copy the Static Website Endpoint from your S3 bucket and open it in your browser.
 

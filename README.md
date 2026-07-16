@@ -177,6 +177,11 @@ Enter:
 ```bash
 python deploy.py
 ```
+## 6. Upload the Frontend Files
+
+```bash
+python upload.py
+```
 
 ## 6. Enable Static Website Hosting
 
@@ -217,16 +222,6 @@ Through this project, I learned:
 - Static Website Hosting on Amazon S3
 - Bucket policies and public access configuration
 - AWS IAM credential management
-
----
-
-# 🔮 Future Enhancements
-
-- Deploy the website using a single Python script
-- Generate unique bucket names automatically
-- Add custom domain using Route 53
-- Integrate Amazon CloudFront for HTTPS
-- Upload nested folders automatically
 
 ---
 
